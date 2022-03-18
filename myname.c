@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("黃");
+    printf("黃\n");
 }
